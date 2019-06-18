@@ -11,7 +11,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 
 import io.appium.java_client.MobileBy;
 import io.appium.java_client.remote.AndroidMobileCapabilityType;
-
+//test comment
 public class Appium {
 	
 	
